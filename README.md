@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clong24
+- 👋 Hi, I’m @clong24, Shilong. 
 - 👀 I’m interested in Basketball, REAL Kobe fan; Texas Poker
 - 🌱 I’m currently looking for a data analyst job in Hong Kong, Mainland. 
 - 💞️ I’m a Google Data Analytics Certificate holder and currently working on Machine Learning Certificate with Andrew Ng.
